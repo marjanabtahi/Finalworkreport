@@ -1,0 +1,6 @@
+Booking appointments for managers
+
+Page design with jQuery-bootstrap-php
+Details similar to each doctor's dedicated page on https://tebka.ir
+
+The backend part of the project is written with microservices and you can use a hypothetical and default data to display the information.
